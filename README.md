@@ -50,12 +50,4 @@ Interactive Power BI dashboard analyzing Formula One performance using multi-sou
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sarveshchoudhary&show_icons=true&theme=dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshchoudhary&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshchoudhary&layout=compact&theme=dark&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=sarveshchoudhary&label=Profile%20Views&color=blue&style=flat)
