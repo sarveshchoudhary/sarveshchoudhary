@@ -4,17 +4,12 @@ Information Technology student specializing in **NextGen Data Science**, interes
 
 ## About Me
 
-🎓 Final-year B.Tech Information Technology student at Vidyalankar Institute of Technology, Mumbai (Honors in NextGen Data Science | 9.5 CGPA)
-
-💼 Previously worked as a Data Analyst Intern at **Navanta Exim**
-
-💻 Working with Python, Java, SQL, Machine Learning, and Data Analytics
-
-🤖 Hands-on experience in Generative AI, NLP, RAG, LLMs, and Multi-Agent AI Systems
-
-📊 Interested in data-driven applications, intelligent recommendation systems, and AI-powered solutions
-
-☁️ Exploring AWS, Cloud Computing, Data Engineering, and emerging AI technologies
+-  Final-year B.Tech Information Technology student at Vidyalankar Institute of Technology, Mumbai (Honors in NextGen Data Science | 9.5 CGPA).
+-  Previously worked as a Data Analyst Intern at Navanta Exim.
+-  Skilled in Python, Java, SQL, Machine Learning, and Data Analytics.
+-  Hands-on experience with Generative AI, NLP, RAG, LLMs, and Multi-Agent AI Systems.
+-  Interested in data-driven applications, intelligent recommendation systems, and AI-powered solutions.
+-  Exploring AWS, Cloud Computing, Data Engineering, and emerging AI technologies.
 
 ## 🛠️ Tech Stack
 
