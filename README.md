@@ -1,18 +1,61 @@
-# 💫 About Me:
-Based on your resume, here is a professional self-introduction (About Me) with technical skills and tech stacks, suitable for interviews, placement rounds, and HR discussions.<br><br>## 1. About Me – Interview Introduction<br><br>"Hello, my name is Sarvesh Choudhary. I am currently pursuing my B.Tech in Information Technology with Honors in NextGen Data Science from Vidyalankar Institute of Technology, Mumbai, with a CGPA of 9.5.<br><br>I have a strong interest in Data Science, Artificial Intelligence, Machine Learning, and software development. My technical skills include programming languages like Python and Java, databases such as PostgreSQL, and data analytics tools like Power BI, Tableau, and Excel.<br><br>I also have hands-on experience with AI and NLP technologies, including TF-IDF, cosine similarity, Large Language Models, Retrieval-Augmented Generation (RAG), and Amazon Bedrock.<br><br>I have worked on projects such as Meridian, an AI-powered study abroad counselling platform built using Flask and LangGraph, integrating multiple specialized AI agents for university recommendations, admission predictions, financial estimation, and scholarship matching.<br><br>Another project is ScholarVenue, an NLP-based research paper venue recommender system that uses TF-IDF, cosine similarity, and ASJC-based scoring to recommend suitable journals and conferences based on research paper content. I have also developed a Formula One Performance Analytics Dashboard using Power BI, Power Query, and DAX.<br><br>Additionally, I completed a Data Analyst internship at Navanta Exim, where I worked on data cleaning, validation, reporting, dashboard development, and trend analysis.<br><br>Apart from academics, I have participated in university-level volleyball and regional-level sports competitions.<br><br>I am someone who enjoys learning new technologies, solving real-world problems, and building practical solutions. I am looking forward to applying my technical knowledge and growing as a professional."<br><br>## 2. Your Technical Skills and Tech Stack<br><br>You can explain your technical skills in the following categories during interviews.<br><br>| Category              | Technologies / Skills                                    |<br>| --------------------- | -------------------------------------------------------- |<br>| Programming Languages | Java, Python                                             |<br>| Database              | PostgreSQL, SQL, Data Modelling                          |<br>| Data Analytics        | Power BI, Tableau, MS Excel                              |<br>| Data Processing       | Power Query, ETL, Data Cleaning, Data Validation         |<br>| AI / ML               | Machine Learning, NLP, TF-IDF, Cosine Similarity         |<br>| Generative AI         | LLMs, Prompt Engineering, RAG, Amazon Bedrock            |<br>| AI Frameworks         | LangGraph                                                |<br>| Backend Development   | Flask, Node.js                                           |<br>| Frontend Development  | React.js, HTML, CSS, JavaScript                          |<br>| Cloud                 | AWS                                                      |<br>| Tools                 | Git, GitHub, Power Automate, Claude Code, GitHub Copilot |<br><br>Note: This combines the technologies listed in your resume with the frameworks used in your projects.<br><br>## 3. Project-wise Tech Stack<br><br>These are the technologies you should be prepared to explain in technical interviews.<br><br>[How to Study Abroad in 2026: Key Challenges, Real Opportunities, and a Step-by-Step Plan for Applicants](https://images.openai.com/static-rsc-4/YcpJl2E7zbwCeCAeViKzHvfF8brrvXGzIfpZuJK0vkqpspXFxWfZoxq_l0fPxWYmVKp5jokrPMzXuo6PgZ6hQSo76tTZOxJlJWXJ_M62PJUGzFfG0iuW3gUtjiUD0-tKHJnPeO49w5TBCE1srJ9s3IjYOw93bVfnO2CP9l1D6fk?purpose=inline)<br><br>1\. Meridian – AI-Powered Study Abroad Counselling Platform<br><br>Multi-Agent AI<br><br>- Frontend: React.js<br>- Backend: Flask<br>- Agent Orchestration: LangGraph<br>- AI/ML: Machine Learning, Gradient Boosting<br>- RAG: Semantic Embeddings, Retrieval-Augmented Generation<br>- Explainability: SHAP<br><br>[DocSearch: NLP-Based Answering System for document retrieval](https://images.openai.com/static-rsc-4/Qh1Wn4qiTtHxIaYTA1rXyQr-K2xVLByYbmwv3-OLohRZi3GgUhwDepBQwFHahwqAGbZ9t8Rtkwp5CiBkDfFYIxowHIS3jneTBKqu4_xt0yrFZWkJy9z9437w6yQ2_tXb7i1oaeCEsE2jly0p-nvnHAGnMNfpkPUuCvhRh1iEb_g?purpose=inline)<br><br>2\. ScholarVenue – Research Paper Venue Recommender<br><br>NLP & Recommendation System<br><br>- Frontend: Web-based interface<br>- Backend: Python / NLP pipeline<br>- NLP: TF-IDF<br>- Similarity: Cosine Similarity<br>- Ranking: ASJC-based Scoring<br>- Processing: Text Vectorization and Similarity Search<br><br>[Power BI Challenge 15 - Formula 1 Analysis - Page 6 - Formula 1 Analysis - Enterprise DNA Forum](https://images.openai.com/static-rsc-4/L5SsS7Vx9LswfGELreHwSPwzIVZ2jBuOLzfcBGWQ3WkBEVGrYXCAEyhJLIFk0MyyD3OkoTkWmYy1bTAa3s4HYgTo9jM6Bng8-GAnlCJg2K5opQIv4Tn8qd6UBs4SVPfVpIP0ZCH1479JTv48GgIQpG3r0bMngw_zWGG3KzEFYbo?purpose=inline)<br><br>3\. Formula One Performance Analytics Dashboard<br><br>Data Analytics & BI<br><br>- Tool: Power BI<br>- Data Transformation: Power Query<br>- Data Modelling: Relationships<br>- Calculations: DAX<br>- Visualization: Interactive Dashboards<br>- Analysis: KPIs, Drill-through, Dynamic Navigation<br><br>## 4. Short About Me (30–45 seconds)<br><br>If the interviewer asks, "Tell me about yourself," and expects a short answer:<br><br>"Hi, I am Sarvesh Choudhary, pursuing B.Tech in Information Technology with Honors in NextGen Data Science from Vidyalankar Institute of Technology, with a CGPA of 9.5. My technical expertise includes Python, Java, SQL, PostgreSQL, Power BI, and AWS, along with hands-on experience in AI/ML, NLP, and Generative AI.<br><br>I have developed projects involving multi-agent AI systems, NLP-based recommendation engines, and business intelligence dashboards. I also completed a Data Analyst internship at Navanta Exim, where I gained practical experience in data cleaning, validation, reporting, and dashboard development.<br><br>I enjoy exploring emerging technologies and applying them to solve real-world problems."<br><br>## 5. Which technologies should you highlight in interviews?<br><br>Depending on the role, emphasize different parts of your profile.<br><br>| Target role        | Technologies to highlight                                |<br>| ------------------ | -------------------------------------------------------- |<br>| Data Analyst       | SQL, Python, Power BI, Tableau, Excel, ETL               |<br>| Data Engineer      | SQL, Python, PostgreSQL, AWS, ETL, Data Modelling        |<br>| AI/ML Engineer     | Python, ML, NLP, TF-IDF, RAG, SHAP                       |<br>| GenAI Developer    | LLMs, RAG, LangGraph, Amazon Bedrock, Prompt Engineering |<br>| Software Developer | Java, Python, React.js, Node.js, Flask                   |<br><br>My recommendation: Keep your introduction focused on your core strengths: Python, Java, SQL, Data Analytics, AWS, and AI/ML. Then use your Meridian and ScholarVenue projects to demonstrate practical knowledge.<br><br>This will make your introduction sound technically strong without making it feel like you are simply listing technologies from your resume.
+# 👋 Hi, I'm Sarvesh Choudhary
 
+Information Technology student specializing in **NextGen Data Science**, interested in Artificial Intelligence, Machine Learning, Data Engineering, and building practical software solutions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarveshchoudhary101) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sarvesh Choudhary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrveshchoudhary101@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sarveshchoudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sarveshchoudhary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarveshchoudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Final-year B.Tech Information Technology student at Vidyalankar Institute of Technology, Mumbai (Honors in NextGen Data Science | 9.5 CGPA)
+
+💼 Previously worked as a Data Analyst Intern at **Navanta Exim**
+
+💻 Working with Python, Java, SQL, Machine Learning, and Data Analytics
+
+🤖 Hands-on experience in Generative AI, NLP, RAG, LLMs, and Multi-Agent AI Systems
+
+📊 Interested in data-driven applications, intelligent recommendation systems, and AI-powered solutions
+
+☁️ Exploring AWS, Cloud Computing, Data Engineering, and emerging AI technologies
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java · JavaScript · SQL · R
+
+**Data Science & Analytics:** Pandas · NumPy · Scikit-learn · Power BI · Tableau · Excel · Power Query · DAX
+
+**AI / ML & GenAI:** Machine Learning · NLP · TF-IDF · Cosine Similarity · LLMs · RAG · Semantic Embeddings · SHAP · Amazon Bedrock · LangGraph
+
+**Web & Backend:** React.js · Node.js · Express.js · Flask · HTML · CSS
+
+**Databases & Cloud:** PostgreSQL · MySQL · Amazon DynamoDB · AWS · Amazon S3 · Amazon EC2 · AWS Lambda
+
+**Tools & Development:** Git · GitHub · Power Automate · Jupyter Notebook · VS Code · Postman · GitHub Copilot · Claude Code
+
+## 🚀 Projects
+
+**Meridian – AI-Powered Study Abroad Counselling Platform**
+
+Multi-agent AI platform integrating seven specialized agents for university recommendations, admission predictions, program matching, financial estimation, and scholarship recommendations using LangGraph, Machine Learning, RAG, and semantic embeddings.
+
+**ScholarVenue – Research Paper Venue Recommender System**
+
+NLP-based recommendation platform that identifies suitable journals and conferences based on research paper content using TF-IDF, cosine similarity, text vectorization, and ASJC-based scoring. Received copyright registration.
+
+**Formula One Performance Analytics Dashboard**
+
+Interactive Power BI dashboard analyzing Formula One performance using multi-source datasets, Power Query ETL transformations, data modelling, DAX KPIs, and drill-through analysis.
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sarveshchoudhary101) · [Email](mailto:asrveshchoudhary101@gmail.com) · [GitHub](https://github.com/sarveshchoudhary)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarveshchoudhary&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sarveshchoudhary&show_icons=true&theme=dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshchoudhary&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshchoudhary&layout=compact&theme=dark&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=sarveshchoudhary&label=Profile%20Views&color=blue&style=flat)
